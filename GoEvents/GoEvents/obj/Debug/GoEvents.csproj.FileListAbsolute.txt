@@ -1,0 +1,104 @@
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\GoEvents.dll.config
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\GoEvents.dll
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\GoEvents.pdb
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\Antlr3.Runtime.dll
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\EntityFramework.dll
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\EntityFramework.SqlServer.dll
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\Microsoft.Owin.dll
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\Microsoft.Owin.Security.dll
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\Newtonsoft.Json.dll
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\Owin.dll
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\System.Web.Optimization.dll
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\System.Web.Providers.dll
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\WebGrease.dll
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\System.Web.Optimization.xml
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\Antlr3.Runtime.pdb
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\Newtonsoft.Json.xml
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\EntityFramework.xml
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\EntityFramework.SqlServer.xml
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\System.Web.Providers.xml
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\Microsoft.Owin.xml
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\Microsoft.Owin.Security.xml
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\obj\Debug\GoEvents.dll
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\obj\Debug\GoEvents.pdb
+C:\Users\Antec\Documents\Visual Studio 2013\Projects\GoEvents\GoEvents\obj\Debug\GoEvents.csprojResolveAssemblyReference.cache
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\GoEvents.dll.config
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\GoEvents.dll
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\GoEvents.pdb
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\Antlr3.Runtime.dll
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\EntityFramework.dll
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\EntityFramework.SqlServer.dll
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\Microsoft.Owin.dll
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\Microsoft.Owin.Security.dll
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\Newtonsoft.Json.dll
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\Owin.dll
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\System.Web.Optimization.dll
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\System.Web.Providers.dll
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\WebGrease.dll
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\System.Web.Optimization.xml
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\Antlr3.Runtime.pdb
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\Newtonsoft.Json.xml
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\EntityFramework.xml
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\EntityFramework.SqlServer.xml
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\System.Web.Providers.xml
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\Microsoft.Owin.xml
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\Microsoft.Owin.Security.xml
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\obj\Debug\GoEvents.csprojResolveAssemblyReference.cache
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\obj\Debug\GoEvents.dll
+C:\Users\Home\Google Drive\Software Engineering Project\GoEvents\GoEvents\obj\Debug\GoEvents.pdb
